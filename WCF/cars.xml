@@ -1,0 +1,23 @@
+<xml version="1.0" encoding="utf-8">
+<Cars>
+ <Car Id="1">
+    <Vender>Toyota</Vender>
+    <Model>Versa</Model>
+    <Year>2014</Year>
+ </Car>
+ <Car Id="2">
+    <Vender>Mersedess</Vender>
+    <Model>8500</Model>
+    <Year>2013</Year>
+ </Car>
+ <Car Id="3">
+    <Vender>BMW</Vender>
+    <Model>760Li</Model>
+    <Year>2014</Year>
+ </Car>
+ <Car Id="4">
+    <Vender></Vender>
+    <Model></Model>
+    <Year>2014</Year>
+ </Car>
+</Cars>

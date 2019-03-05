@@ -1,0 +1,6 @@
+D:\train\WCF\Summator\CalculateService\bin\Debug\CalculateService.dll.config
+D:\train\WCF\Summator\CalculateService\bin\Debug\CalculateService.dll
+D:\train\WCF\Summator\CalculateService\bin\Debug\CalculateService.pdb
+D:\train\WCF\Summator\CalculateService\obj\Debug\CalculateService.csproj.CoreCompileInputs.cache
+D:\train\WCF\Summator\CalculateService\obj\Debug\CalculateService.dll
+D:\train\WCF\Summator\CalculateService\obj\Debug\CalculateService.pdb

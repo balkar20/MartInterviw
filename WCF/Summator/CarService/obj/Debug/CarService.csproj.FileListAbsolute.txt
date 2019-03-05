@@ -1,0 +1,6 @@
+D:\train\WCF\Summator\CarService\bin\Debug\CarService.dll
+D:\train\WCF\Summator\CarService\bin\Debug\CarService.pdb
+D:\train\WCF\Summator\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+D:\train\WCF\Summator\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+D:\train\WCF\Summator\CarService\obj\Debug\CarService.dll
+D:\train\WCF\Summator\CarService\obj\Debug\CarService.pdb
