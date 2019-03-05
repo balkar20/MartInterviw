@@ -1,0 +1,47 @@
+﻿@model CaimTrain.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+    Layout = null;
+}
+ 
+<h2>@ViewBag.Title.</h2>
+ 
+@using (Html.BeginForm("Register", "Account", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary()
+    <div>
+        @Html.LabelFor(m => m.Email)
+        <div>
+            @Html.TextBoxFor(m => m.Email)
+        </div>
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Password)
+        <div>
+            @Html.PasswordFor(m => m.Password)
+        </div>
+    </div>
+    <div>
+        @Html.LabelFor(m => m.ConfirmPassword)
+        <div>
+            @Html.PasswordFor(m => m.ConfirmPassword)
+        </div>
+    </div>
+     
+    <div>
+        @Html.LabelFor(m => m.Age)
+        <div>
+            @Html.TextBoxFor(m => m.Age)
+        </div>
+    </div>
+    <div>
+    @Html.LabelFor(m => m.Gender)
+    <div>
+        @Html.RadioButtonFor(m => m.Gender, "женский")
+        <span>женский</span>
+    </div>
+    <div>
+        @Html.RadioButtonFor(m => m.Gender, "мужской")
+        <span>мужской</span>
+    </div>

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiltersAndAuth", "FiltersAn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionFilters", "ActionFilters\ActionFilters.csproj", "{63A1D80C-329C-43FA-B4F6-2B8B0B2AF56C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemberShip1", "MemberShip1\MemberShip1.csproj", "{67E04DA7-BDDF-4727-A850-8B5A542DCC4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{63A1D80C-329C-43FA-B4F6-2B8B0B2AF56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63A1D80C-329C-43FA-B4F6-2B8B0B2AF56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63A1D80C-329C-43FA-B4F6-2B8B0B2AF56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E04DA7-BDDF-4727-A850-8B5A542DCC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E04DA7-BDDF-4727-A850-8B5A542DCC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E04DA7-BDDF-4727-A850-8B5A542DCC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E04DA7-BDDF-4727-A850-8B5A542DCC4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
