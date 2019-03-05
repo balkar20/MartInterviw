@@ -163,7 +163,7 @@ namespace ClaimIdentity.Controllers
                     user.Claims.Add(identityClaim);
                     // сохраняем изменения
                     await UserManager.UpdateAsync(user);
-
+                    
                     await SignInManager.SignInAsync(user, isPersistent: false, rememberBrowser: false);
 
                     return RedirectToAction("Index", "Home");
