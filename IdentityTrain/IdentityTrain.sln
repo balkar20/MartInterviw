@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityOwin", "IdentityOwi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimIdentity", "ClaimIdentity\ClaimIdentity.csproj", "{29C79AD1-AC6D-494D-8154-590AC8479C78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAuthApp", "GoogleAuthApp\GoogleAuthApp.csproj", "{0EC11B14-B3F8-441F-A39E-C69D5EEBC46D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResetPassword", "ResetPassword\ResetPassword.csproj", "{830B8C56-9CC5-44AF-B6CD-EA3D09AB1F3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{29C79AD1-AC6D-494D-8154-590AC8479C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29C79AD1-AC6D-494D-8154-590AC8479C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29C79AD1-AC6D-494D-8154-590AC8479C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC11B14-B3F8-441F-A39E-C69D5EEBC46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC11B14-B3F8-441F-A39E-C69D5EEBC46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC11B14-B3F8-441F-A39E-C69D5EEBC46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC11B14-B3F8-441F-A39E-C69D5EEBC46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830B8C56-9CC5-44AF-B6CD-EA3D09AB1F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830B8C56-9CC5-44AF-B6CD-EA3D09AB1F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830B8C56-9CC5-44AF-B6CD-EA3D09AB1F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830B8C56-9CC5-44AF-B6CD-EA3D09AB1F3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
