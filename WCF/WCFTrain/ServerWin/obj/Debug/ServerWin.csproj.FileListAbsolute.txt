@@ -1,0 +1,7 @@
+C:\MartInterviw\WCF\WCFTrain\ServerWin\bin\Debug\ServerWin.exe.config
+C:\MartInterviw\WCF\WCFTrain\ServerWin\bin\Debug\ServerWin.exe
+C:\MartInterviw\WCF\WCFTrain\ServerWin\bin\Debug\ServerWin.pdb
+C:\MartInterviw\WCF\WCFTrain\ServerWin\obj\Debug\ServerWin.csprojAssemblyReference.cache
+C:\MartInterviw\WCF\WCFTrain\ServerWin\obj\Debug\ServerWin.csproj.CoreCompileInputs.cache
+C:\MartInterviw\WCF\WCFTrain\ServerWin\obj\Debug\ServerWin.exe
+C:\MartInterviw\WCF\WCFTrain\ServerWin\obj\Debug\ServerWin.pdb

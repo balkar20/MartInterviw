@@ -1,0 +1,10 @@
+C:\MartInterviw\WCF\WCFTrain\ClientWin\bin\Debug\ClientWin.exe.config
+C:\MartInterviw\WCF\WCFTrain\ClientWin\bin\Debug\ClientWin.exe
+C:\MartInterviw\WCF\WCFTrain\ClientWin\bin\Debug\ClientWin.pdb
+C:\MartInterviw\WCF\WCFTrain\ClientWin\obj\Debug\ClientWin.csprojAssemblyReference.cache
+C:\MartInterviw\WCF\WCFTrain\ClientWin\obj\Debug\ClientWin.Form1.resources
+C:\MartInterviw\WCF\WCFTrain\ClientWin\obj\Debug\ClientWin.Properties.Resources.resources
+C:\MartInterviw\WCF\WCFTrain\ClientWin\obj\Debug\ClientWin.csproj.GenerateResource.cache
+C:\MartInterviw\WCF\WCFTrain\ClientWin\obj\Debug\ClientWin.csproj.CoreCompileInputs.cache
+C:\MartInterviw\WCF\WCFTrain\ClientWin\obj\Debug\ClientWin.exe
+C:\MartInterviw\WCF\WCFTrain\ClientWin\obj\Debug\ClientWin.pdb
