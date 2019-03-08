@@ -12,3 +12,10 @@ D:\train2\train\WCF\WCFTrain\Client\obj\Debug\Client.csprojAssemblyReference.cac
 D:\train2\train\WCF\WCFTrain\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 D:\train2\train\WCF\WCFTrain\Client\obj\Debug\Client.exe
 D:\train2\train\WCF\WCFTrain\Client\obj\Debug\Client.pdb
+D:\MartInterviw\WCF\WCFTrain\Client\bin\Debug\Client.exe.config
+D:\MartInterviw\WCF\WCFTrain\Client\bin\Debug\Client.exe
+D:\MartInterviw\WCF\WCFTrain\Client\bin\Debug\Client.pdb
+D:\MartInterviw\WCF\WCFTrain\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\MartInterviw\WCF\WCFTrain\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\MartInterviw\WCF\WCFTrain\Client\obj\Debug\Client.exe
+D:\MartInterviw\WCF\WCFTrain\Client\obj\Debug\Client.pdb

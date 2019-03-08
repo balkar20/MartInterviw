@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="BollService.cs" />
     <Compile Include="Geeter.cs" />
+    <Compile Include="GreetFault.cs" />
     <Compile Include="IBollService.cs" />
     <Compile Include="IGeeter.cs" />
     <Compile Include="Program.cs" />

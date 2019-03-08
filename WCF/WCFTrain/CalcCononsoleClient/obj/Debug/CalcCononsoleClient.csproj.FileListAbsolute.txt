@@ -1,0 +1,7 @@
+D:\MartInterviw\WCF\WCFTrain\CalcCononsoleClient\bin\Debug\CalcCononsoleClient.exe.config
+D:\MartInterviw\WCF\WCFTrain\CalcCononsoleClient\bin\Debug\CalcCononsoleClient.exe
+D:\MartInterviw\WCF\WCFTrain\CalcCononsoleClient\bin\Debug\CalcCononsoleClient.pdb
+D:\MartInterviw\WCF\WCFTrain\CalcCononsoleClient\obj\Debug\CalcCononsoleClient.csprojAssemblyReference.cache
+D:\MartInterviw\WCF\WCFTrain\CalcCononsoleClient\obj\Debug\CalcCononsoleClient.csproj.CoreCompileInputs.cache
+D:\MartInterviw\WCF\WCFTrain\CalcCononsoleClient\obj\Debug\CalcCononsoleClient.exe
+D:\MartInterviw\WCF\WCFTrain\CalcCononsoleClient\obj\Debug\CalcCononsoleClient.pdb

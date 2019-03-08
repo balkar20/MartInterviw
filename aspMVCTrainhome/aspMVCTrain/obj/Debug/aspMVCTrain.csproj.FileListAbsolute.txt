@@ -1,0 +1,7 @@
+D:\train\aspMVCTrain\aspMVCTrain\bin\Debug\aspMVCTrain.exe.config
+D:\train\aspMVCTrain\aspMVCTrain\bin\Debug\aspMVCTrain.exe
+D:\train\aspMVCTrain\aspMVCTrain\bin\Debug\aspMVCTrain.pdb
+D:\train\aspMVCTrain\aspMVCTrain\obj\Debug\aspMVCTrain.csprojAssemblyReference.cache
+D:\train\aspMVCTrain\aspMVCTrain\obj\Debug\aspMVCTrain.csproj.CoreCompileInputs.cache
+D:\train\aspMVCTrain\aspMVCTrain\obj\Debug\aspMVCTrain.exe
+D:\train\aspMVCTrain\aspMVCTrain\obj\Debug\aspMVCTrain.pdb

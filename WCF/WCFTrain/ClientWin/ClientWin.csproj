@@ -116,5 +116,11 @@
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ServerWin\ServerWin.csproj">
+      <Project>{d1dd9fdd-d765-4ad0-8625-c3bace32536f}</Project>
+      <Name>ServerWin</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

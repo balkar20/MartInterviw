@@ -13,18 +13,14 @@ namespace ServerWin
     {
         static void Main(string[] args)
         {
-            Uri uri = new Uri("");
+            Uri uri = new Uri("http://localhost:8005/Greet");
             WSHttpBinding binding = new WSHttpBinding();
             EndpointAddress endpoint = new EndpointAddress(uri);
 
             ServiceHost host = new ServiceHost(typeof(Geeter), uri);
             try
             {
-                //ServiceMetadataBehavior behavior = new ServiceMetadataBehavior();
-                //behavior.HttpGetEnabled = true;
-
                 host.AddServiceEndpoint(typeof(IGeeter), binding, "Geeter");
-                //host.Description.Behaviors.Add(behavior);
 
                 host.Open();
                 Console.WriteLine("I Listen very match!");

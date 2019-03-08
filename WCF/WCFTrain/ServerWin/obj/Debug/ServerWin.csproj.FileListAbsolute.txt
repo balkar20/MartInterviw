@@ -5,3 +5,10 @@ C:\MartInterviw\WCF\WCFTrain\ServerWin\obj\Debug\ServerWin.csprojAssemblyReferen
 C:\MartInterviw\WCF\WCFTrain\ServerWin\obj\Debug\ServerWin.csproj.CoreCompileInputs.cache
 C:\MartInterviw\WCF\WCFTrain\ServerWin\obj\Debug\ServerWin.exe
 C:\MartInterviw\WCF\WCFTrain\ServerWin\obj\Debug\ServerWin.pdb
+D:\MartInterviw\WCF\WCFTrain\ServerWin\bin\Debug\ServerWin.exe.config
+D:\MartInterviw\WCF\WCFTrain\ServerWin\bin\Debug\ServerWin.exe
+D:\MartInterviw\WCF\WCFTrain\ServerWin\bin\Debug\ServerWin.pdb
+D:\MartInterviw\WCF\WCFTrain\ServerWin\obj\Debug\ServerWin.csprojAssemblyReference.cache
+D:\MartInterviw\WCF\WCFTrain\ServerWin\obj\Debug\ServerWin.csproj.CoreCompileInputs.cache
+D:\MartInterviw\WCF\WCFTrain\ServerWin\obj\Debug\ServerWin.exe
+D:\MartInterviw\WCF\WCFTrain\ServerWin\obj\Debug\ServerWin.pdb
