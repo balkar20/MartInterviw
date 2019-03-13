@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcClient", "CalcClient\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcCononsoleClient", "CalcCononsoleClient\CalcCononsoleClient.csproj", "{28F79600-EA85-4413-903D-5B5502231A93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranzactionCalcServer", "TranzactionCalcServer\TranzactionCalcServer.csproj", "{72DEC0C1-0573-4F70-B1D2-FF2C65D5609A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionCalcClient", "TransactionCalcClient\TransactionCalcClient.csproj", "{8C642A07-C8A7-4C61-B0D7-6DB65326981B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{28F79600-EA85-4413-903D-5B5502231A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28F79600-EA85-4413-903D-5B5502231A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28F79600-EA85-4413-903D-5B5502231A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72DEC0C1-0573-4F70-B1D2-FF2C65D5609A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DEC0C1-0573-4F70-B1D2-FF2C65D5609A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DEC0C1-0573-4F70-B1D2-FF2C65D5609A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DEC0C1-0573-4F70-B1D2-FF2C65D5609A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C642A07-C8A7-4C61-B0D7-6DB65326981B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C642A07-C8A7-4C61-B0D7-6DB65326981B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C642A07-C8A7-4C61-B0D7-6DB65326981B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C642A07-C8A7-4C61-B0D7-6DB65326981B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

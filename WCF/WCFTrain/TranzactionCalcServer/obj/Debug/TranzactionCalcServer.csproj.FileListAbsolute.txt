@@ -1,0 +1,7 @@
+D:\MartInterviw\WCF\WCFTrain\TranzactionCalcServer\bin\Debug\TranzactionCalcServer.exe.config
+D:\MartInterviw\WCF\WCFTrain\TranzactionCalcServer\bin\Debug\TranzactionCalcServer.exe
+D:\MartInterviw\WCF\WCFTrain\TranzactionCalcServer\bin\Debug\TranzactionCalcServer.pdb
+D:\MartInterviw\WCF\WCFTrain\TranzactionCalcServer\obj\Debug\TranzactionCalcServer.csprojAssemblyReference.cache
+D:\MartInterviw\WCF\WCFTrain\TranzactionCalcServer\obj\Debug\TranzactionCalcServer.csproj.CoreCompileInputs.cache
+D:\MartInterviw\WCF\WCFTrain\TranzactionCalcServer\obj\Debug\TranzactionCalcServer.exe
+D:\MartInterviw\WCF\WCFTrain\TranzactionCalcServer\obj\Debug\TranzactionCalcServer.pdb

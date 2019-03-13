@@ -1,0 +1,6 @@
+D:\MartInterviw\WCF\WCFTrain\TransactionCalcClient\bin\Debug\TransactionCalcClient.exe.config
+D:\MartInterviw\WCF\WCFTrain\TransactionCalcClient\bin\Debug\TransactionCalcClient.exe
+D:\MartInterviw\WCF\WCFTrain\TransactionCalcClient\bin\Debug\TransactionCalcClient.pdb
+D:\MartInterviw\WCF\WCFTrain\TransactionCalcClient\obj\Debug\TransactionCalcClient.csproj.CoreCompileInputs.cache
+D:\MartInterviw\WCF\WCFTrain\TransactionCalcClient\obj\Debug\TransactionCalcClient.exe
+D:\MartInterviw\WCF\WCFTrain\TransactionCalcClient\obj\Debug\TransactionCalcClient.pdb
