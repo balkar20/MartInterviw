@@ -13,6 +13,11 @@ namespace Routing1.Controllers
             return View();
         }
 
+        public string Test(int id)
+        {
+            return "I am test";
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
