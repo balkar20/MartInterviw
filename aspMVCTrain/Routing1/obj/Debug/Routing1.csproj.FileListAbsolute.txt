@@ -73,7 +73,6 @@ D:\MartInterviw\aspMVCTrain\Routing1\bin\Antlr3.Runtime.pdb
 D:\MartInterviw\aspMVCTrain\Routing1\bin\System.Diagnostics.DiagnosticSource.xml
 D:\MartInterviw\aspMVCTrain\Routing1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 D:\MartInterviw\aspMVCTrain\Routing1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\MartInterviw\aspMVCTrain\Routing1\obj\Debug\Routing1.csprojAssemblyReference.cache
 D:\MartInterviw\aspMVCTrain\Routing1\obj\Debug\Routing1.csproj.CoreCompileInputs.cache
 D:\MartInterviw\aspMVCTrain\Routing1\obj\Debug\Routing1.csproj.CopyComplete
 D:\MartInterviw\aspMVCTrain\Routing1\obj\Debug\Routing1.dll
