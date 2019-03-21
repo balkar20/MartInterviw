@@ -13,10 +13,10 @@ namespace mvc1.Filters
         {
             var user = filterContext.HttpContext.User;
 
-            if (user == null || !user.Identity.IsAuthenticated)
-            {
-                filterContext.Result = new HttpUnauthorizedResult();
-            }
+            //if (user == null || !user.Identity.IsAuthenticated)
+            //{
+            //    filterContext.Result = new HttpUnauthorizedResult();
+            //}
         }
 
         public void OnAuthenticationChallenge(AuthenticationChallengeContext filterContext)

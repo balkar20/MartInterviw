@@ -5,23 +5,10 @@ namespace mvc1.Filters
 {
     public class CustomAuthAttribute : AuthorizeAttribute
     {
-        private bool localAllowed;
-
-        public CustomAuthAttribute(bool allowedParam)
-        {
-            localAllowed = allowedParam;
-        }
 
         protected override bool AuthorizeCore(HttpContextBase httpContext)
         {
-            if (httpContext.Request.IsLocal)
-            {
-                return localAllowed;
-            }
-            else
-            {
-                return true;
-            }
+            return true;
         }
     }
 }
