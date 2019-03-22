@@ -1,6 +1,0 @@
-D:\train2\train\UnitTrain\Lib\bin\Debug\Lib.dll
-D:\train2\train\UnitTrain\Lib\bin\Debug\Lib.pdb
-D:\train2\train\UnitTrain\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
-D:\train2\train\UnitTrain\Lib\obj\Debug\Lib.dll
-D:\train2\train\UnitTrain\Lib\obj\Debug\Lib.pdb
-D:\train2\train\UnitTrain\Lib\obj\Debug\Lib.csprojAssemblyReference.cache

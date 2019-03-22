@@ -1,7 +1,0 @@
-D:\MartInterviw\WCF\WCFTrain\CalcServer\bin\Debug\CalcServer.exe.config
-D:\MartInterviw\WCF\WCFTrain\CalcServer\bin\Debug\CalcServer.exe
-D:\MartInterviw\WCF\WCFTrain\CalcServer\bin\Debug\CalcServer.pdb
-D:\MartInterviw\WCF\WCFTrain\CalcServer\obj\Debug\CalcServer.csproj.CoreCompileInputs.cache
-D:\MartInterviw\WCF\WCFTrain\CalcServer\obj\Debug\CalcServer.exe
-D:\MartInterviw\WCF\WCFTrain\CalcServer\obj\Debug\CalcServer.pdb
-D:\MartInterviw\WCF\WCFTrain\CalcServer\obj\Debug\CalcServer.csprojAssemblyReference.cache

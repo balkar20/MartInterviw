@@ -1,7 +1,0 @@
-D:\train\WCF\Summator\Summator\bin\Debug\Summator.dll.config
-D:\train\WCF\Summator\Summator\bin\Debug\Summator.dll
-D:\train\WCF\Summator\Summator\bin\Debug\Summator.pdb
-D:\train\WCF\Summator\Summator\obj\Debug\Summator.csprojAssemblyReference.cache
-D:\train\WCF\Summator\Summator\obj\Debug\Summator.csproj.CoreCompileInputs.cache
-D:\train\WCF\Summator\Summator\obj\Debug\Summator.dll
-D:\train\WCF\Summator\Summator\obj\Debug\Summator.pdb

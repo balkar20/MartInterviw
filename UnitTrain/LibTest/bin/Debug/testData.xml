@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> 
-<UserDetails>
-  <User userid ="Vlad" telephone="+38 000 123 23 42" email="bo@mail.ru"/>
-  <User userid ="Slava" telephone="+38 000 123 23 42" email="bpo@mail.ru"/>
-  <User userid ="Kkolya" telephone="+38 000 123 23 42" email="bbo@mail.ru"/>
-  <User userid ="Maha" telephone="+38 000 123 23 42" email="bob@mail.ru"/>
-  <User userid ="Odi" telephone="+38 000 123 23 42" email="lbo@mail.ru"/>
-  <User userid ="Rudy" telephone="+38 000 123 23 42" email="sbo@mail.ru"/>
-</UserDetails>
