@@ -236,5 +236,6 @@ _Pvt_Extensions
 **/.vs/
 **/DesignTimeBuild/
 **/bin/Debug/
+**/obj/Debug/
 **/bin/Release/
 **/HypeLevel/v15/Server/sqlite3/
