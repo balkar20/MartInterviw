@@ -198,6 +198,7 @@
     <Content Include="Views\Legacy\GetLegacyURL.cshtml" />
     <Content Include="Views\Home\ActionName.cshtml" />
     <Content Include="Views\Account\Login.cshtml" />
+    <Content Include="Views\Home\Son.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

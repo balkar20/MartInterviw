@@ -6,6 +6,8 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 using System.Web.Security;
+using FiltersAndAuth.Models;
+using FiltersAndAuth.Providers;
 using Microsoft.Ajax.Utilities;
 
 namespace FiltersAndAuth
@@ -14,6 +16,8 @@ namespace FiltersAndAuth
     {
         protected void Application_Start()
         {
+            //ValueProviderFactories.Factories.Add(new BrowserValueProviderFactory());
+            ModelBinders.Binders.Add(typeof(Book), new MyModelBinder());
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);

@@ -8,7 +8,7 @@ namespace mvc1.Filters
 
         protected override bool AuthorizeCore(HttpContextBase httpContext)
         {
-            return true;
+            return false;
         }
     }
 }

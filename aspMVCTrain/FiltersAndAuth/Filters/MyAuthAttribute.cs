@@ -11,11 +11,11 @@ namespace mvc1.Filters
     {
         public void OnAuthentication(AuthenticationContext filterContext)
         {
-            var user = filterContext.HttpContext.User;
+            //var user = filterContext.HttpContext.User;
 
             //if (user == null || !user.Identity.IsAuthenticated)
             //{
-            //    filterContext.Result = new HttpUnauthorizedResult();
+            //    //filterContext.Result = new HttpUnauthorizedResult();
             //}
         }
 
@@ -24,6 +24,7 @@ namespace mvc1.Filters
             var user = filterContext.HttpContext.User;
             if (user == null || !user.Identity.IsAuthenticated)
             {
+                filterContext.Result = new HttpStatusCodeResult(200);
                 //filterContext.Result = new RedirectToRouteResult(
                 //    new System.Web.Routing.RouteValueDictionary {
                 //    { "controller", "Account" }, { "action", "Login" }

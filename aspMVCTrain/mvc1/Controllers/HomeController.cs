@@ -26,6 +26,11 @@ namespace mvc1.Controllers
             return View(phone);
         }
 
+        public PartialViewResult Son()
+        {
+            return PartialView("Son");
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";

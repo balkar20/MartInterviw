@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Security;
+using FiltersAndAuth.Models;
+using FiltersAndAuth.Providers;
 using mvc1.Filters;
 
 namespace FiltersAndAuth.Controllers
@@ -15,6 +17,16 @@ namespace FiltersAndAuth.Controllers
         public string Index()
         {
             return "You entred!";
+        }
+
+        public string BrowserInfo(string browser)
+        {
+            return browser;
+        }
+
+        public string BookInfo(Book book)
+        {
+            return book.Name;
         }
 
         public ActionResult About()
