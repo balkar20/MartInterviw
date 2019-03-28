@@ -43,7 +43,7 @@ namespace ClientWin
             }
             catch (CommunicationException commProblem)
             {
-                MessageBox.Show("CommunicationException");
+                MessageBox.Show($"CommunicationException: {commProblem.Message}");
             }
 
         }

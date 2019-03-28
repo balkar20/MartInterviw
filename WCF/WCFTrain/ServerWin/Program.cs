@@ -13,7 +13,7 @@ namespace ServerWin
     {
         static void Main(string[] args)
         {
-            Uri uri = new Uri("http://localhost:8005/Greet");
+            Uri uri = new Uri("http://localhost:8004/Greet");
             WSHttpBinding binding = new WSHttpBinding();
             EndpointAddress endpoint = new EndpointAddress(uri);
 
@@ -30,6 +30,8 @@ namespace ServerWin
             catch (Exception e)
             {
                 host.Abort();
+                Console.WriteLine(e.Message);
+                Console.ReadLine();
             }
 
         }
