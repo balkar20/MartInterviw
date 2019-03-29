@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using ClientWin.ServiceReference1;
 using ServerWin;
-using IGeeter = ClientWin.ServiceReference1.IGeeter;
+using IGeeter = ServerWin.IGeeter;
 
 namespace ClientWin
 {
@@ -25,7 +25,7 @@ namespace ClientWin
         {
             try
             {
-                IGeeter client = new GeeterClient();
+                ServiceReference1.IGeeter client  = new GeeterClient();
                 string text = textBox1.Text;
                 MessageBox.Show(client.Greet(text));
             }

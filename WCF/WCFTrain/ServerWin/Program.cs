@@ -13,15 +13,9 @@ namespace ServerWin
     {
         static void Main(string[] args)
         {
-            Uri uri = new Uri("http://localhost:8004/Greet");
-            WSHttpBinding binding = new WSHttpBinding();
-            EndpointAddress endpoint = new EndpointAddress(uri);
-
-            ServiceHost host = new ServiceHost(typeof(Geeter), uri);
+            ServiceHost host = new ServiceHost(typeof(Geeter));
             try
             {
-                host.AddServiceEndpoint(typeof(IGeeter), binding, "Geeter");
-
                 host.Open();
                 Console.WriteLine("I Listen very match!");
                 Console.ReadLine();

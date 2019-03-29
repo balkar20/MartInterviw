@@ -12,7 +12,7 @@ namespace CalcServer
 
         public void Equation(string equation)
         {
-            Console.WriteLine("Equation({0}", equation);
+            Console.WriteLine("Equation{0}", equation);
         }
     }
 }
