@@ -19,6 +19,7 @@ namespace Server
             Type contract = typeof(IContract);
 
             ServiceHost host = new ServiceHost(typeof(Service));
+               
 
             host.AddServiceEndpoint(contract, binding, adress);
 

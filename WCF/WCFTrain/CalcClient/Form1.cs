@@ -39,5 +39,10 @@ namespace CalcClient
                 MessageBox.Show("CommunicationException");
             }
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
