@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IIsDeploy1", "IIsDeploy1\IIsDeploy1.csproj", "{798BE12C-8D8B-4B9D-9535-93CFAE1F3069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IisDeploy2", "IisDeploy2\IisDeploy2.csproj", "{F9244BE0-0DC5-48D8-A2BB-44695A089098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798BE12C-8D8B-4B9D-9535-93CFAE1F3069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798BE12C-8D8B-4B9D-9535-93CFAE1F3069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798BE12C-8D8B-4B9D-9535-93CFAE1F3069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798BE12C-8D8B-4B9D-9535-93CFAE1F3069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9244BE0-0DC5-48D8-A2BB-44695A089098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9244BE0-0DC5-48D8-A2BB-44695A089098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9244BE0-0DC5-48D8-A2BB-44695A089098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9244BE0-0DC5-48D8-A2BB-44695A089098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04059A45-EDD0-4334-9801-DA51A7509256}
+	EndGlobalSection
+EndGlobal
