@@ -10,6 +10,8 @@ namespace Deploys.Controllers
     {
         public ActionResult Index()
         {
+            string cookie = Request.Cookies["testModule"].Value;
+            ViewBag.Cookie = cookie;
             return View();
         }
 
