@@ -1,4 +1,5 @@
 ﻿using System;
+using ClassLibrary1;
 using Standart1;
 
 namespace CoreSamples
@@ -9,6 +10,8 @@ namespace CoreSamples
         {
             Class1 obj = new Class1();
             obj.Method();
+            FrameworkClass fc = new FrameworkClass();
+            fc.Meth();
         }
     }
 }
