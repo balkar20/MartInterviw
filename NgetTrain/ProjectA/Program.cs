@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ClassLibrary1;
 
 namespace ProjectA
 {
@@ -10,6 +11,8 @@ namespace ProjectA
     {
         static void Main(string[] args)
         {
+            MyClass mc = new MyClass();
+            mc.Go();
         }
     }
 }
