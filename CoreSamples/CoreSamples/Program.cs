@@ -8,7 +8,7 @@ namespace CoreSamples
     {
         static void Main(string[] args)
         {
-            Class1 obj = new Class1();
+            StandartClass1 obj = new StandartClass1();
             obj.Method();
             FrameworkClass fc = new FrameworkClass();
             fc.Meth();

@@ -70,6 +70,10 @@
       <Project>{486cade2-a800-4765-9420-6044b5a148a6}</Project>
       <Name>ClassLibrary1</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MyLibA\MyLibA.csproj">
+      <Project>{d08f4bab-0b1b-49b9-a06a-ff8920aed454}</Project>
+      <Name>MyLibA</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

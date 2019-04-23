@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLibA", "MyLibA\MyLibA.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{486CADE2-A800-4765-9420-6044B5A148A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibCore", "ClassLibCore\ClassLibCore.csproj", "{8D18394A-6D11-4372-A833-C517815C3E02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{486CADE2-A800-4765-9420-6044B5A148A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{486CADE2-A800-4765-9420-6044B5A148A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{486CADE2-A800-4765-9420-6044B5A148A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D18394A-6D11-4372-A833-C517815C3E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D18394A-6D11-4372-A833-C517815C3E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D18394A-6D11-4372-A833-C517815C3E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D18394A-6D11-4372-A833-C517815C3E02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

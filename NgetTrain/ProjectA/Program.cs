@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ClassLibrary1;
+using MyLibA;
 
 namespace ProjectA
 {
@@ -13,6 +14,8 @@ namespace ProjectA
         {
             MyClass mc = new MyClass();
             mc.Go();
+            Class1 c1 = new Class1();
+            
         }
     }
 }
