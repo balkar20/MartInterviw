@@ -4,13 +4,21 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace IIsDeploy1.Controllers
+namespace AccessPool.Controllers
 {
     public class HomeController : Controller
     {
+        [HttpGet]
         public ActionResult Index()
         {
             ViewBag.Identity = System.Security.Principal.WindowsIdentity.GetCurrent().Name;
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Index(string path)
+        {
+            if
             return View();
         }
 
