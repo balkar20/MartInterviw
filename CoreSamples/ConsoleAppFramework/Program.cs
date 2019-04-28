@@ -11,7 +11,7 @@ namespace ConsoleAppFramework
     {
         static void Main(string[] args)
         {
-            Class1 obj = new Class1();
+            StandartClass1 obj = new StandartClass1();
             obj.Method();
         }
     }
