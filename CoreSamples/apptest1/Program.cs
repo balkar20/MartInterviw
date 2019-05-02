@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace ConsoleAppCore
+namespace apptest1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(Figgle.FiggleFonts.Standard.Render("Hello, World!"));
         }
     }
 }
