@@ -16,16 +16,17 @@ namespace ClientWin
 {
     public partial class Form1 : Form
     {
+        private ServiceReference1.IGeeter client;
         public Form1()
         {
             InitializeComponent();
+            client = new GeeterClient();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             try
             {
-                ServiceReference1.IGeeter client  = new GeeterClient();
                 string text = textBox1.Text;
                 MessageBox.Show(client.Greet(text));
             }
