@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{656B2DF8-4E9D-46E9-A38B-B9553A393C11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{656B2DF8-4E9D-46E9-A38B-B9553A393C11}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthTrain1", "AuthTrain1\AuthTrain1.csproj", "{B756CABE-0E95-4535-93A9-98D4310F6D73}"
 EndProject
@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceTrain2", "ServiceTra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeviceTrain3", "SeviceTrain3\SeviceTrain3.csproj", "{23EA1ABD-F07B-4B86-A97B-942DA27BE207}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static", "Static\Static.csproj", "{2FCB680E-903A-4B75-8B67-8D4764781D49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static", "Static\Static.csproj", "{2FCB680E-903A-4B75-8B67-8D4764781D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreArena", "AspNetCoreArena\AspNetCoreArena.csproj", "{52EE3631-DC51-49BF-91ED-C10C373041F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{2FCB680E-903A-4B75-8B67-8D4764781D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FCB680E-903A-4B75-8B67-8D4764781D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FCB680E-903A-4B75-8B67-8D4764781D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52EE3631-DC51-49BF-91ED-C10C373041F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EE3631-DC51-49BF-91ED-C10C373041F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EE3631-DC51-49BF-91ED-C10C373041F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EE3631-DC51-49BF-91ED-C10C373041F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
